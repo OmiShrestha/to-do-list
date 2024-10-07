@@ -1,10 +1,3 @@
-//
-//  README.md
-//  to-do-list
-//
-//  Created by Omi Shrestha on 10/6/24.
-//
-
 # Simple Todo List
 
 A simple command-line Todo List application written in C that allows users to manage
