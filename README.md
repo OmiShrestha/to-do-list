@@ -16,5 +16,5 @@ To compile and run this program, ensure you have a C compiler installed (e.g., G
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/OmiShrestha/to.git
-   cd todo_list
+   git clone https://github.com/OmiShrestha/to-do-list.git
+   cd to-do-list
