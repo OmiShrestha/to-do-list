@@ -1,4 +1,4 @@
-# Simple Todo List
+# Todo List
 
 A simple command-line Todo List application written in C that allows users to manage
 their tasks easily. This program provides a basic interface for adding, displaying,
@@ -9,6 +9,11 @@ and deleting tasks.
 - **Add Task**: Users can add new tasks to the list.
 - **Display Tasks**: Users can view all the tasks currently in the list, with each task numbered for easy reference.
 - **Delete Task**: Users can delete a task by entering its corresponding number from the displayed list.
+
+## Additional Features
+
+- **Mark Task as Completed**: Users can mark tasks as completed, and completed tasks are displayed with a "[Done]" tag.
+- **Save and Load Tasks**: Tasks are automatically saved to a file and loaded when the program starts, ensuring persistence across sessions.
 
 ## How to Compile and Run
 
