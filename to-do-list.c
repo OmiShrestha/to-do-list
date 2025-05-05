@@ -1,4 +1,6 @@
-//Author: Omi Shrestha
+/*
+ * Author: Omi Shrestha
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
