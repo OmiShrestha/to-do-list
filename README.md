@@ -23,3 +23,16 @@ To compile and run this program, ensure you have a C compiler installed (e.g., G
    ```bash
    git clone https://github.com/OmiShrestha/to-do-list.git
    cd to-do-list
+   ```
+
+## How to Run
+
+1. Compile the program using the following command:
+   ```bash
+   clang -g to-do-list.c -o to-do-list
+   ```
+
+2. Run the compiled program:
+   ```bash
+   ./to-do-list
+   ```

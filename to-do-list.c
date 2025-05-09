@@ -15,6 +15,7 @@ void displayTasks(char tasks[][TASK_LENGTH], int taskCount) {
     for (int i = 0; i < taskCount; i++) {
         printf("%d: %s\n", i + 1, tasks[i]);
     }
+    printf("\n");
 }
 
 void saveTasksToFile(char tasks[][TASK_LENGTH], int taskCount, const char *filename) {
