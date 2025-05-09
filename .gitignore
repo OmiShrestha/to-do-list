@@ -1,1 +1,30 @@
+# Ignore build artifacts
+*.o
+*.out
+*.exe
+
+# Ignore debugging files
+*.dSYM/
+*.log
+
+# Ignore temporary files
+*~
+*.swp
+.vscode/
+
+# Ignore backup files
+*.bak
+*.tmp
+
+# Ignore generated files
+Makefile
+CMakeFiles/
+cmake_install.cmake
+
+# Ignore macOS-specific files
 .DS_Store
+.AppleDouble
+
+# Ignore IDE/Editor configurations
+.idea/
+.vscode/
