@@ -1,7 +1,6 @@
-# Todo List
+# To-Do List
 
-A simple command-line Todo List application written in C that allows users to manage
-their tasks easily. This program provides a basic interface for adding, displaying,
+A command-line Todo List application written in C that allows users to manage their tasks easily. This program provides a basic interface for adding, displaying,
 and deleting tasks.
 
 ## Features
