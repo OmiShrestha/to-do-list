@@ -24,7 +24,7 @@ To compile and run this program, ensure you have a C compiler installed (e.g., G
    cd to-do-list
    ```
 
-## How to Run
+## How to Run the Program
 
 1. Compile the program using the following command:
    ```bash
